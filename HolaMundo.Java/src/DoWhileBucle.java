@@ -16,6 +16,7 @@ public class DoWhileBucle {
            switch(response) {
                case 0:
                    System.out.println("Gracias por venir bro'");
+                   break;
                case 1:
                    System.out.println("Movies");
                    break;

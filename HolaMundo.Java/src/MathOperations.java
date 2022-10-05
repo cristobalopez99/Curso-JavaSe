@@ -18,7 +18,7 @@ public class MathOperations {
         //Nos dice la raiz cuadrada de un numero
         System.out.println(Math.sqrt(x));
 
-        //Nos dice el area de un circulo pi *ral cuadrado
+        //Nos dice el area de un circulo pi *radio al cuadrado
         System.out.println(Math.PI * Math.pow(y,2));
 
         //Area de una esfera
